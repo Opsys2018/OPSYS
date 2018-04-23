@@ -1,0 +1,1 @@
+Run.bat -run -project_location "D:\Mani\D_Folder\CITS\cognizant-intelligent-test-scripter-1.1\Projects\MarEighteen" -scenario "NewScenario" -testcase "IDC_Edit" -browser "IE"
